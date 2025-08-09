@@ -1,5 +1,12 @@
 <!--💻 Continously working on my dev skills-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Milton)](https://git.io/typing-svg)
+
+💻 Continously working on my dev skills <br />
+♨️ Most comfortable in: Java, Python  <br />
+🌒 Preffered IDE: Eclipse, VS Code  <br />
+☢️ Studying: M.Sc.Eng. Engineering Physics, Software specialization  <br />
+
+
 <!--
 **milton-m/milton-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
