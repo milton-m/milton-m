@@ -4,7 +4,7 @@
 💻 Continously working on my dev skills <br />
 ♨️ Most comfortable in: Java, Python  <br />
 🌒 Preffered IDE: Eclipse, VS Code  <br />
-☢️ Studying: M.Sc.Eng. Engineering Physics, Software specialization  <br />
+☢️ Studying: M.Sc.Eng. Engineering Physics, Software Specialization  <br />
 
 
 <!--
